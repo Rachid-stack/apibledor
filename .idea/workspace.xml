@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4e26e899-1980-4ab4-a8eb-b740086b781b" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/config/db.config.js" beforeDir="false" afterPath="$PROJECT_DIR$/config/db.config.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -42,6 +43,7 @@
   </component>
   <component name="SvnConfiguration">
     <configuration />
+    <supportedVersion>125</supportedVersion>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,7 +54,8 @@
       <updated>1648061506746</updated>
       <workItem from="1648061508177" duration="1246000" />
       <workItem from="1648065706817" duration="861000" />
-      <workItem from="1648133238667" duration="473000" />
+      <workItem from="1648133238667" duration="556000" />
+      <workItem from="1648133917844" duration="50000" />
     </task>
     <servers />
   </component>
