@@ -2,7 +2,7 @@ Configuration API
 module.exports = {
     HOST : "hybrid3673.ca.ns.planethoster.net",
     USER: "lebledor_lebledor",
-    PASSWORD: "bonjour_2023",
+    PASSWORD: "ionic",
     DB: "lebledor_bledor",
     dialect: "postgres",
     pool: {
