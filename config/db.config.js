@@ -1,8 +1,8 @@
 module.exports = {
-    HOST : "localhost",
-    USER: "postgres",
-    PASSWORD: "ionic",
-    DB: "BleDOR",
+    HOST : "oregon-postgres.render.com",
+    USER: "bledor",
+    PASSWORD: "9TRNm33DzYdxsjeHLnYbGAkzobJ61RaB",
+    DB: "bledordb_pdso",
     dialect: "postgres",
     pool: {
         max: 5,
